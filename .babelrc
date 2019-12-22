@@ -1,0 +1,5 @@
+{
+    "sourceMaps": true, 
+    "presets": ["@babel/react"],
+    "plugins": ["@babel/plugin-syntax-dynamic-import","@babel/plugin-transform-destructuring", "@babel/plugin-proposal-object-rest-spread", "react-html-attrs"]
+}
