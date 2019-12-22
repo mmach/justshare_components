@@ -1,0 +1,17 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <ellipse ry="4.375" rx="4.375" id="svg_3" cy="7.488281" cx="25.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#fff"/>
+  <ellipse ry="4.375" rx="4.375" id="svg_4" cy="14.988281" cx="9.75" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#fff"/>
+  <ellipse ry="4.375" rx="4.375" id="svg_5" cy="13.488281" cx="39.25" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#fff"/>
+  <ellipse ry="4.375" rx="4.375" id="svg_6" cy="34.238281" cx="40" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#fff"/>
+  <ellipse ry="4.375" rx="4.375" id="svg_7" cy="36.238281" cx="10.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#fff"/>
+  <ellipse ry="4.375" rx="4.375" id="svg_8" cy="41.488281" cx="25" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#fff"/>
+  <line stroke="#fff" stroke-linecap="null" stroke-linejoin="null" id="svg_10" y2="42.024037" x2="25.375" y1="8.613281" x1="25.375" stroke-width="1.5" fill="none"/>
+  <line stroke="#fff" stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="11.200238" x2="41.875" y1="36.830673" x1="9.125" stroke-width="1.5" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_17" y2="33.363281" x2="39.375" y1="15.113281" x1="10.625" stroke-width="1.5" stroke="#fff" fill="none"/>
+    <ellipse ry="7.75" rx="7.75" id="svg_1" cy="23.863281" cx="24.875" stroke-width="0" stroke="#000" fill="#888"/>
+
+ </g>
+</svg>

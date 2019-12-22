@@ -1,0 +1,19 @@
+{
+  "name": "justshare-components",
+  "version": "1.0.0",
+  "description": "shared components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmach/justshare_components.git"
+  },
+  "author": "mmach90",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmach/justshare_components/issues"
+  },
+  "homepage": "https://github.com/mmach/justshare_components#readme"
+}
