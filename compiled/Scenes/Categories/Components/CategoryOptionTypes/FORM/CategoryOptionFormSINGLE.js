@@ -1,7 +1,7 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import uuidv4 from "uuid/v4";
-import TextBox from '../../../../../Components/FormComponent/Components/TextBox/index.jsx';
+import TextBox from '../../../../../Components/FormComponent/Components/TextBox/index.js';
 import { Translator } from './../../../../../Shared/index.js';
 import DayPickerInputComponent from './../../../../../Components/FormComponent/Components/DayPickerInputComponent/index.jsx';
 
@@ -104,4 +104,3 @@ const mapDispatchToProps = dispatch => {
 };
 
 export default connect(mapStateToProps, mapDispatchToProps)(CategoryOptionFormSINGLE);
-//# sourceMappingURL=CategoryOptionFormSINGLE.js.map

@@ -50,4 +50,3 @@ class BodyLoader extends React.Component {
 }
 
 export default BodyLoader;
-//# sourceMappingURL=index.js.map

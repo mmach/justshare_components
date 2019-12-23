@@ -17,4 +17,3 @@ export const USER_ACTIONS = {
   //CLOSE_MODAL:'CLOSE_MODAL'
 
 };
-//# sourceMappingURL=actions.js.map

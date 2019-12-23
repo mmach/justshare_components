@@ -26,4 +26,3 @@ export default class CategoryOptionsLinkDTO extends BaseDTO {
   }
 
 }
-//# sourceMappingURL=CategoryOptionsLinkDTO.js.map

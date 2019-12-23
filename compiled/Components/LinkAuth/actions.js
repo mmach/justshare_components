@@ -3,4 +3,3 @@ const MODAL_ACTIONS = {
   CLOSE_MODAL: 'CLOSE_MODAL'
 };
 export default MODAL_ACTIONS;
-//# sourceMappingURL=actions.js.map

@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import uuidv4 from "uuid/v4";
 import QueryList from '../../../../../Shared/QueryList';
 import { BaseService } from '../../../../../App/Architecture/baseServices.js';
-import DropDownList from '../../../../../Components/FormComponent/Components/DropDownList/index.jsx';
+import DropDownList from '../../../../../Components/FormComponent/Components/DropDownList/index.js';
 import { Translator } from './../../../../../Shared/index.js';
 
 class CategoryOptionFormSELECT extends React.Component {
@@ -84,4 +84,3 @@ const mapDispatchToProps = dispatch => {
 };
 
 export default connect(mapStateToProps, mapDispatchToProps)(CategoryOptionFormSELECT);
-//# sourceMappingURL=CategoryOptionFormSELECT.js.map

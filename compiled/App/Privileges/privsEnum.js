@@ -6,4 +6,3 @@ const PRIVS_ENUM = {
   IS_NOT_FRIEND: 'IS_NOT_FRIEND'
 };
 export default PRIVS_ENUM;
-//# sourceMappingURL=privsEnum.js.map

@@ -174,4 +174,3 @@ export default function LoaderReducer(state = {
       }
   }
 }
-//# sourceMappingURL=reducer.1.js.map

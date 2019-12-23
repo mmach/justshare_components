@@ -18,4 +18,3 @@ export default class UserAuthsDTO extends BaseDTO {
   }
 
 }
-//# sourceMappingURL=UserAuthsDTO.js.map

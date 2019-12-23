@@ -1,7 +1,7 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import { Translator } from './../../../../../Shared/index.js';
-import MapForm from '../../../../../Components/MapForm/index.jsx';
+import MapForm from '../../../../../Components/MapForm/index.js';
 
 class CategoryOptionGEO_SHOW extends React.Component {
   constructor(props) {
@@ -39,4 +39,3 @@ const mapDispatchToProps = dispatch => {
 };
 
 export default connect(mapStateToProps, mapDispatchToProps)(CategoryOptionGEO_SHOW);
-//# sourceMappingURL=CategoryOptionGEO_SHOW.js.map

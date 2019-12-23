@@ -1,6 +1,6 @@
 import React from 'react';
 import { Col, FormGroup, Input, Label } from 'reactstrap';
-import FormComponent from './../../index.jsx';
+import FormComponent from './../../index.js';
 export default class TextBox extends FormComponent {
   constructor(props) {
     super(props);
@@ -27,4 +27,3 @@ export default class TextBox extends FormComponent {
   }
 
 }
-//# sourceMappingURL=index.js.map

@@ -21,4 +21,3 @@ export default class CityDTO extends BaseDTO {
   validation(state) {}
 
 }
-//# sourceMappingURL=CityDTO.js.map

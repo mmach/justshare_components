@@ -1,6 +1,6 @@
 import React from 'react';
 import { Button, Form, FormGroup, Label, Input, FormText, Col, Container, Row, FormFeedback } from 'reactstrap';
-import FormComponent from './../../index.jsx';
+import FormComponent from './../../index.js';
 export default class Checkbox extends FormComponent {
   constructor(props) {
     super(props);
@@ -29,4 +29,3 @@ export default class Checkbox extends FormComponent {
   }
 
 }
-//# sourceMappingURL=index.js.map

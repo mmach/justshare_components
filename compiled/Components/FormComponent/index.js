@@ -46,4 +46,3 @@ export default class FormComponent extends React.Component {
   }
 
 }
-//# sourceMappingURL=index.js.map

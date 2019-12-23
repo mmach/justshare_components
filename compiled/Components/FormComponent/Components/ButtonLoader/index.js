@@ -26,4 +26,3 @@ export default class ButtonLoader extends React.Component {
   }
 
 }
-//# sourceMappingURL=index.js.map

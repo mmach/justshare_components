@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 import uuidv4 from "uuid/v4";
 import QueryList from '../../../../../Shared/QueryList';
 import { BaseService } from '../../../../../App/Architecture/baseServices.js';
-import MapForm from '../../../../../Components/MapForm/index.jsx';
+import MapForm from '../../../../../Components/MapForm/index.js';
 import { Translator } from './../../../../../Shared/index.js'; //import { Map } from 'react-leaflet';
 
 delete L.Icon.Default.prototype._getIconUrl;
@@ -177,4 +177,3 @@ export default geolocated({
   },
   userDecisionTimeout: 5000
 })(connect(mapStateToProps, mapDispatchToProps)(CategoryOptionFormGEO));
-//# sourceMappingURL=CategoryOptionFormGEO.js.map

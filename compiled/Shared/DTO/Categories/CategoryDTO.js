@@ -29,4 +29,3 @@ export default class CategoryDTO extends BaseDTO {
   }
 
 }
-//# sourceMappingURL=CategoryDTO.js.map

@@ -176,4 +176,3 @@ class BaseService {
 ;
 export default BaseService;
 export { BaseService };
-//# sourceMappingURL=baseServices.js.map

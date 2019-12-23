@@ -276,4 +276,3 @@ export default function CategoryTreeReducer(state = Object.assign({}, emptyState
       }
   }
 }
-//# sourceMappingURL=reducer.js.map

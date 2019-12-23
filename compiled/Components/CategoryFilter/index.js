@@ -1,5 +1,5 @@
 /*
-    ./client/components/App.jsx
+    ./client/components/App.js
 */
 import randomColor from 'randomcolor'; // import the script
 
@@ -235,4 +235,3 @@ const mapDispatchToProps = dispatch => {
 };
 
 export default connect(mapStateToProps, mapDispatchToProps)(CategoryFilter);
-//# sourceMappingURL=index.js.map

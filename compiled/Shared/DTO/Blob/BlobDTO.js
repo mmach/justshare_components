@@ -19,4 +19,3 @@ export default class BlobDTO extends BaseDTO {
   }
 
 }
-//# sourceMappingURL=BlobDTO.js.map

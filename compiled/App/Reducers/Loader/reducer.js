@@ -26,4 +26,3 @@ export default function LoaderReducer(state = {
       }
   }
 }
-//# sourceMappingURL=reducer.js.map

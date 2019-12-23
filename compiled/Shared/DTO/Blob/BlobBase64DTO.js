@@ -32,4 +32,3 @@ export default class BlobBase64DTO extends BaseDTO {
   }
 
 }
-//# sourceMappingURL=BlobBase64DTO.js.map

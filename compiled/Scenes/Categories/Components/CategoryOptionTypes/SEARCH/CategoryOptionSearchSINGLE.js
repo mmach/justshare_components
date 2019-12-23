@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import HistogramSlider from '../../../../../Components/HistogramSlider/HistogramSlider.jsx';
+import HistogramSlider from '../../../../../Components/HistogramSlider/HistogramSlider.js';
 import { Translator } from './../../../../../Shared/index.js';
 
 class CategoryOptionSearchSINGLE extends React.Component {
@@ -142,4 +142,3 @@ const mapDispatchToProps = dispatch => {
 };
 
 export default connect(mapStateToProps, mapDispatchToProps)(CategoryOptionSearchSINGLE);
-//# sourceMappingURL=CategoryOptionSearchSINGLE.js.map

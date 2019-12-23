@@ -39,4 +39,3 @@ class MapMarker extends React.Component {
 }
 
 export default MapMarker;
-//# sourceMappingURL=index.js.map

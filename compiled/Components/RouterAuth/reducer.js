@@ -27,4 +27,3 @@ export default function ModalComponentReducer(state = Object.assign({}, emptySta
       }
   }
 }
-//# sourceMappingURL=reducer.js.map

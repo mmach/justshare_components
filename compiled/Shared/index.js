@@ -13,4 +13,3 @@ import UserLoginInternalDTO from "./DTO/User/UserLoginInternalDTO";
 import BaseDTO from "./BaseObjects/baseDTO.js";
 import BlobDTO from "./DTO/Blob/BlobDTO.js";
 export { Enums, CommandList, QueryList, Translator, BaseException, BaseDTO, DictionaryDTO, BlobDTO, BlobMapperDTO, CategoryHierarchyDTO, CategoryDTO, UserDTO, UserRegisterInternalDTO, UserLoginInternalDTO };
-//# sourceMappingURL=index.js.map

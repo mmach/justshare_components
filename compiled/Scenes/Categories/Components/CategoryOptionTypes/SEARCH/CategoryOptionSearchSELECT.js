@@ -101,4 +101,3 @@ const mapDispatchToProps = dispatch => {
 };
 
 export default connect(mapStateToProps, mapDispatchToProps)(CategoryOptionSearchSELECT);
-//# sourceMappingURL=CategoryOptionSearchSELECT.js.map

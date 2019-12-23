@@ -62,4 +62,3 @@ export default function DictionaryReducer(state = {
       }
   }
 }
-//# sourceMappingURL=reducer.js.map

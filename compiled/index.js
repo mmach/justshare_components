@@ -1,3 +1,2 @@
-import CategoryFilter from './Components/CategoryFilter/index.jsx';
+import CategoryFilter from './Components/CategoryFilter/index.js';
 export { CategoryFilter };
-//# sourceMappingURL=index.js.map

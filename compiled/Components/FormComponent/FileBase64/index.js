@@ -60,4 +60,3 @@ export default class FileBase64 extends React.Component {
 FileBase64.defaultProps = {
   multiple: false
 };
-//# sourceMappingURL=index.js.map

@@ -1,5 +1,5 @@
 /*
-    ./client/components/App.jsx
+    ./client/components/App.js
 */
 import React from 'react';
 import { Col, FormGroup, Input, Label } from 'reactstrap';
@@ -76,4 +76,3 @@ class TagComponent extends FormComponent {
 }
 
 export default TagComponent;
-//# sourceMappingURL=index.js.map

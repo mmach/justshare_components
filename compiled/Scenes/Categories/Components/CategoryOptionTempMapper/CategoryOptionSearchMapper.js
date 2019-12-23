@@ -1,5 +1,5 @@
 /*
-    ./client/components/App.jsx
+    ./client/components/App.js
 */
 import React from 'react';
 import { connect } from 'react-redux';
@@ -97,4 +97,3 @@ const mapDispatchToProps = dispatch => {
 };
 
 export default connect(mapStateToProps, mapDispatchToProps)(CategoryOptionSearchMapper);
-//# sourceMappingURL=CategoryOptionSearchMapper.js.map

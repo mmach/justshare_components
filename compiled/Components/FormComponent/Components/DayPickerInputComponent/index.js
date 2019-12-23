@@ -2,7 +2,7 @@ import React from 'react';
 import { Button, Form, FormGroup, Label, Input, FormText, Col, Container, Row, FormFeedback } from 'reactstrap';
 import DayPickerInput from 'react-day-picker/DayPickerInput';
 import 'react-day-picker/lib/style.css';
-import FormComponent from './../../index.jsx';
+import FormComponent from './../../index.js';
 import DatePicker from 'react-datepicker'; //import "react-datepicker/dist/react-datepicker.css";
 
 import "./../../../../assets/css/react-datepicker-cssmodules.css";
@@ -47,4 +47,3 @@ export default class DayPickerInputComponent extends FormComponent {
   }
 
 }
-//# sourceMappingURL=index.js.map

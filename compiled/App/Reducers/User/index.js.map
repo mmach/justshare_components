@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/App/Reducers/User/index.js"],"names":["USER_ACTIONS","UserReducer"],"mappings":"AAAA,SAASA,YAAT,QAA6B,cAA7B;AACA,OAAOC,WAAP,MAAwB,cAAxB;AAEA,SAAUD,YAAV,EAAwBC,WAAxB","sourcesContent":["import  {USER_ACTIONS}  from './actions.js';\r\nimport UserReducer from './reducer.js';\r\n\r\nexport  { USER_ACTIONS, UserReducer };"],"file":"index.js"}

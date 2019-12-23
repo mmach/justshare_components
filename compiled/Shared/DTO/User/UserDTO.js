@@ -44,4 +44,3 @@ export default class UserDTO extends BaseDTO {
   }
 
 }
-//# sourceMappingURL=UserDTO.js.map

@@ -4,4 +4,3 @@ const LIGHTBOX_ACTIONS = {
   SET_ACTIVE_IMG_LIGHTBOX: 'SET_ACTIVE_IMG_LIGHTBOX'
 };
 export default LIGHTBOX_ACTIONS;
-//# sourceMappingURL=actions.js.map

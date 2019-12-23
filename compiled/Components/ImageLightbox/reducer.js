@@ -46,4 +46,3 @@ export default function ImageLightboxReducer(state = Object.assign({}, emptyStat
       }
   }
 }
-//# sourceMappingURL=reducer.js.map

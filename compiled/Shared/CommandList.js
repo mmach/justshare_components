@@ -45,4 +45,3 @@ let CommandList = {
   }
 };
 export default CommandList;
-//# sourceMappingURL=CommandList.js.map

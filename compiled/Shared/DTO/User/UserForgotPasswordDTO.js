@@ -23,4 +23,3 @@ export default class UserForgotPasswordDTO extends BaseDTO {
   }
 
 }
-//# sourceMappingURL=UserForgotPasswordDTO.js.map

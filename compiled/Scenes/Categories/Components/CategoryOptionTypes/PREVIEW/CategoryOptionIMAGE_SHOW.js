@@ -98,4 +98,3 @@ const mapDispatchToProps = dispatch => {
 };
 
 export default connect(mapStateToProps, mapDispatchToProps)(CategoryOptionIMAGE_SHOW);
-//# sourceMappingURL=CategoryOptionIMAGE_SHOW.js.map

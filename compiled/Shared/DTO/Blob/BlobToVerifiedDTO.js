@@ -11,4 +11,3 @@ export default class BlobToVerifiedDTO extends BaseDTO {
   }
 
 }
-//# sourceMappingURL=BlobToVerifiedDTO.js.map

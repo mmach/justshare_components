@@ -104,4 +104,3 @@ const mapDispatchToProps = dispatch => {
 };
 
 export default connect(mapStateToProps, mapDispatchToProps)(CategoryOptionSearchMULTISELECT);
-//# sourceMappingURL=CategoryOptionSearchMULTISELECT.js.map

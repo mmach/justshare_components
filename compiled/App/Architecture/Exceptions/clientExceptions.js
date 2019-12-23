@@ -11,4 +11,3 @@ class ClientException extends BaseException {
 
 ;
 export default ClientException;
-//# sourceMappingURL=clientExceptions.js.map

@@ -1,5 +1,5 @@
 /*
-    ./client/components/App.jsx
+    ./client/components/App.js
 */
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
@@ -657,4 +657,3 @@ export default withRouter(geolocated({
 
                 </div>
             </Popup>*/
-//# sourceMappingURL=index.js.map

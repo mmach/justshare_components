@@ -1,5 +1,5 @@
 /*
-    ./client/components/App.jsx
+    ./client/components/App.js
 */
 import React from 'react';
 import Collapsible from 'react-collapsible';
@@ -568,4 +568,3 @@ export default withRouter(geolocated({
   },
   userDecisionTimeout: 5000
 })(connect(mapStateToProps, mapDispatchToProps)(FilterSearch)));
-//# sourceMappingURL=index.js.map

@@ -10,4 +10,3 @@ export default class BlobMapperDTO extends BaseDTO {
   }
 
 }
-//# sourceMappingURL=BlobMapperDTO.js.map

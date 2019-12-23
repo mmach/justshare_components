@@ -69,4 +69,3 @@ global.stringToBytesFaster = function (str) {
 
   return re;
 };
-//# sourceMappingURL=commonFunctions.js.map

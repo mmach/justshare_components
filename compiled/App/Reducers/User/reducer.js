@@ -79,4 +79,3 @@ export default function UserReducer(state = Object.assign({}, emptyState), actio
       }
   }
 }
-//# sourceMappingURL=reducer.js.map

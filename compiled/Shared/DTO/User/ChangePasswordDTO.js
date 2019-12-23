@@ -22,4 +22,3 @@ export default class ChangePasswordDTO extends BaseDTO {
   }
 
 }
-//# sourceMappingURL=ChangePasswordDTO.js.map

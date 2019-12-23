@@ -29,4 +29,3 @@ export default class ItemDTO extends BaseDTO {
   validation(state) {}
 
 }
-//# sourceMappingURL=ItemDTO.js.map

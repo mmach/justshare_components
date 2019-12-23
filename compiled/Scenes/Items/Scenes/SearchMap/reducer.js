@@ -31,4 +31,3 @@ export default function NewOfferItemReducer(state = Object.assign({}, emptyState
       }
   }
 }
-//# sourceMappingURL=reducer.js.map

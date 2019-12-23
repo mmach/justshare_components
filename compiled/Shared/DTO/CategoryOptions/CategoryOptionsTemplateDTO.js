@@ -77,4 +77,3 @@ export default class CategoryOptionsTemplateDTO extends BaseDTO {
   }
 
 }
-//# sourceMappingURL=CategoryOptionsTemplateDTO.js.map

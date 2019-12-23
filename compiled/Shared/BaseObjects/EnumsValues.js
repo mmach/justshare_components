@@ -26,4 +26,3 @@ let Enums = {
   }
 };
 export default Enums;
-//# sourceMappingURL=EnumsValues.js.map

@@ -8,7 +8,7 @@ import CommandList from '../../../../../../../Shared/CommandList';
 import CategoryOptionsDTO from '../../../../../../../Shared/DTO/CategoryOptions/CategoryOptionsDTO';
 import QueryList from '../../../../../../../Shared/QueryList';
 import { BaseService } from '../../../../../../App/Architecture/baseServices.js';
-import ButtonLoader from '../../../../../Components/FormComponent/Components/ButtonLoader/index.jsx';
+import ButtonLoader from '../../../../../Components/FormComponent/Components/ButtonLoader/index.js';
 import TextBox from '../../../../../Components/FormComponent/Components/TextBox/index.jsx';
 import { Translator } from './../../../../../../../Shared/index.js';
 import CATEGORY_EDIT_ACTIONS from './../../../Scenes/EditCategory/actions.js';
@@ -452,4 +452,3 @@ const mapDispatchToProps = dispatch => {
 };
 
 export default connect(mapStateToProps, mapDispatchToProps)(CategoryOptionBETWEEN);
-//# sourceMappingURL=CategoryOptionBETWEEN_SINGLE.js.map

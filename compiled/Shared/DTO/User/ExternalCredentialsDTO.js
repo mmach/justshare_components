@@ -15,4 +15,3 @@ export default class ExternalCredentialsDTO extends BaseDTO {
   validation(state) {}
 
 }
-//# sourceMappingURL=ExternalCredentialsDTO.js.map

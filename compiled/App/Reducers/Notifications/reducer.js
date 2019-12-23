@@ -39,4 +39,3 @@ export default function NotificationReducer(state = [], action) {
       }
   }
 }
-//# sourceMappingURL=reducer.js.map

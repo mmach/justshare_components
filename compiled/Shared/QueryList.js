@@ -40,4 +40,3 @@ let QueryList = {
   }
 };
 export default QueryList;
-//# sourceMappingURL=QueryList.js.map

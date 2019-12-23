@@ -72,4 +72,3 @@ export default class SearchItemDTO extends BaseDTO {
   }
 
 }
-//# sourceMappingURL=SearchItemDTO.js.map

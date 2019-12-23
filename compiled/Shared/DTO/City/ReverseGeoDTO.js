@@ -17,4 +17,3 @@ export default class ReverseGeoDTO extends BaseDTO {
   validation(state) {}
 
 }
-//# sourceMappingURL=ReverseGeoDTO.js.map

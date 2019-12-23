@@ -25,4 +25,3 @@ export default class UserLoginInternalDTO extends BaseDTO {
   }
 
 }
-//# sourceMappingURL=UserLoginInternalDTO.js.map

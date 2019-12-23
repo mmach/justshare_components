@@ -1,12 +1,12 @@
 {
   "name": "justshare-components",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "shared components",
   "main": ".\\compiled\\index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "web-build": "node \".\\node_modules\\webpack\\bin\\webpack.js\" --config webpack.config.js  --env.NODE_ENV=production",
-    "babel": " .\\node_modules\\.bin\\babel ./src -d ./compiled  --source-maps --copy-files  "
+    "babel": " .\\node_modules\\.bin\\babel ./src -d ./compiled   --copy-files --presets=@babel/react && node .\\post_build.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   "dependencies": {
     "@babel/cli": "^7.7.7",
     "@babel/preset-react": "^7.7.4",
+    "@babel/runtime": "^7.7.7",
     "axios": "^0.16.2",
     "better-validator": "^2.1.3",
     "bluebird": "^3.5.3",
@@ -60,10 +61,10 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.7.7",
     "@babel/plugin-syntax-dynamic-import": "^7.7.4",
     "@babel/plugin-transform-destructuring": "^7.7.4",
+    "@babel/plugin-transform-react-jsx": "^7.7.7",
     "@babel/preset-es2015": "^7.0.0-beta.53",
     "@celebryts/react-autocomplete-tags": "^1.0.0",
     "@vitalets/google-translate-api": "^2.8.0",
-    "babel-loader": "^8.0.6",
     "bootstrap": "^3.3.7",
     "eslint": "^3.19.0",
     "istanbul": "^0.4.5",
@@ -117,6 +118,5 @@
     "translate": "^1.1.0",
     "uglifyjs-webpack-plugin": "^2.1.2",
     "url-loader": "^0.5.9"
-    
   }
 }

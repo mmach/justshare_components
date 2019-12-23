@@ -9,4 +9,3 @@ const NEW_OFFER_ACTIONS = {
   GET_CATEGORY_OPTION_FETCH: ActionsGen(QueryList.CategoryOptions.GET_CATEGORY_OPTION)
 };
 export default NEW_OFFER_ACTIONS;
-//# sourceMappingURL=actions.js.map

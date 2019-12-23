@@ -20,4 +20,3 @@ export default class CountryDTO extends BaseDTO {
   validation(state) {}
 
 }
-//# sourceMappingURL=CountryDTO.js.map

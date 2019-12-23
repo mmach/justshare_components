@@ -12,4 +12,3 @@ export default class CategoryHierarchyDTO extends BaseDTO {
   }
 
 }
-//# sourceMappingURL=CategoryHierarchyDTO.js.map

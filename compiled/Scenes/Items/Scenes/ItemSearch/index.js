@@ -1,5 +1,5 @@
 /*
-    ./client/components/App.jsx
+    ./client/components/App.js
 */
 import 'leaflet/dist/leaflet.css';
 import React from 'react';
@@ -278,4 +278,3 @@ const mapDispatchToProps = dispatch => {
 };
 
 export default withRouter(connect(mapStateToProps, mapDispatchToProps)(ItemSearch));
-//# sourceMappingURL=index.js.map

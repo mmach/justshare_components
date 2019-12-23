@@ -10,4 +10,3 @@ let DICTIONARY_ACTIONS = {
   REMOVE_DICTIONARY_FETCH: ActionsGen(CommandList.Dictionary.REMOVE_DICTIONARY)
 };
 export default DICTIONARY_ACTIONS;
-//# sourceMappingURL=actions.js.map

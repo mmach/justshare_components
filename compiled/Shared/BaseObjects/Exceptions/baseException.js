@@ -17,4 +17,3 @@ export default class BaseException {
 
 }
 ;
-//# sourceMappingURL=baseException.js.map

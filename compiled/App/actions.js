@@ -10,4 +10,3 @@ const ActionsGen = action => {
 };
 
 export default ActionsGen;
-//# sourceMappingURL=actions.js.map

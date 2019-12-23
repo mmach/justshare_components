@@ -35,4 +35,3 @@ export default class DictionaryDTO extends BaseDTO {
 
 }
 ;
-//# sourceMappingURL=DictionaryDTO.js.map

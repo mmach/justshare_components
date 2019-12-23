@@ -7,4 +7,3 @@ import NotificationReducer from './Reducers/Notifications/reducer.js';
 import { NOTIFICATIONS_ACTIONS } from './Reducers/Notifications/actions.js';
 export { //ACTIONS AND REDUSCERS
 DictionaryReducer, DICTIONARY_ACTIONS, NotificationReducer, NOTIFICATIONS_ACTIONS, LOADER_ACTIONS, LoaderReducer, BaseService, ClientException, UserReducer, USER_ACTIONS };
-//# sourceMappingURL=index.js.map

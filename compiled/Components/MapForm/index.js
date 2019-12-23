@@ -1,5 +1,5 @@
 /*
-    ./client/components/App.jsx
+    ./client/components/App.js
 */
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
@@ -671,4 +671,3 @@ export default geolocated({
   },
   userDecisionTimeout: 5000
 })(connect(mapStateToProps, mapDispatchToProps)(MapForm));
-//# sourceMappingURL=index.js.map

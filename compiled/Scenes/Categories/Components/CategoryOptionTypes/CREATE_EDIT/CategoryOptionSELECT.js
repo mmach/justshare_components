@@ -7,7 +7,7 @@ import uuidv4 from "uuid/v4";
 import CommandList from '../../../../../Shared/CommandList';
 import CategoryOptionsDTO from '../../../../../Shared/DTO/CategoryOptions/CategoryOptionsDTO';
 import { BaseService } from '../../../../../App/Architecture/baseServices.js';
-import ButtonLoader from '../../../../../Components/FormComponent/Components/ButtonLoader/index.jsx';
+import ButtonLoader from '../../../../../Components/FormComponent/Components/ButtonLoader/index.js';
 import Checkbox from '../../../../../Components/FormComponent/Components/Checkbox/index.jsx';
 import TextBox from '../../../../../Components/FormComponent/Components/TextBox/index.jsx';
 import { Translator } from './../../../../../Shared/index.js';
@@ -528,4 +528,3 @@ const mapDispatchToProps = dispatch => {
 };
 
 export default connect(mapStateToProps, mapDispatchToProps)(CategoryOptionSELECT);
-//# sourceMappingURL=CategoryOptionSELECT.js.map

@@ -122,4 +122,3 @@ export default class Histogram extends React.Component {
   }
 
 }
-//# sourceMappingURL=Histogram.js.map

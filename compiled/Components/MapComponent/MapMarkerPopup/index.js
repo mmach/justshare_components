@@ -26,4 +26,3 @@ class MapMarkerPopup extends React.Component {
 }
 
 export default MapMarkerPopup;
-//# sourceMappingURL=index.js.map

@@ -17,4 +17,3 @@ class MapCircle extends React.Component {
 }
 
 export default MapCircle;
-//# sourceMappingURL=index.js.map

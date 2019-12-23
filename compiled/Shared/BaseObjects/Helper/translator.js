@@ -12,4 +12,3 @@ module.exports = (codeList, lang) => {
 
   };
 };
-//# sourceMappingURL=translator.js.map

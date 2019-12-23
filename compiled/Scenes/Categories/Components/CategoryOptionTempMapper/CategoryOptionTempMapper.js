@@ -1,5 +1,5 @@
 /*
-    ./client/components/App.jsx
+    ./client/components/App.js
 */
 import React from 'react';
 import Collapsible from 'react-collapsible';
@@ -252,4 +252,3 @@ const mapDispatchToProps = dispatch => {
 };
 
 export default withRouter(connect(mapStateToProps, mapDispatchToProps)(CategoryOptionTempMapper));
-//# sourceMappingURL=CategoryOptionTempMapper.js.map

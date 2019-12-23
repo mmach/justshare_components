@@ -2,7 +2,7 @@ import React from 'react';
 import { connect } from 'react-redux';
 import { Col, Row } from 'reactstrap';
 import uuidv4 from "uuid/v4";
-import Checkbox from '../../../../../Components/FormComponent/Components/Checkbox/index.jsx';
+import Checkbox from '../../../../../Components/FormComponent/Components/Checkbox/index.js';
 import { Translator } from './../../../../../Shared/index.js';
 
 class CategoryOptionFormMULTISELECT extends React.Component {
@@ -94,4 +94,3 @@ const mapDispatchToProps = dispatch => {
 };
 
 export default connect(mapStateToProps, mapDispatchToProps)(CategoryOptionFormMULTISELECT);
-//# sourceMappingURL=CategoryOptionFormMULTISELECT.js.map
