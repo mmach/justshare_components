@@ -1,10 +1,12 @@
 {
   "name": "justshare-components",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "shared components",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "web-build": "node \".\\node_modules\\webpack\\bin\\webpack.js\" --config webpack.config.js  --env.NODE_ENV=production"
+
   },
   "repository": {
     "type": "git",

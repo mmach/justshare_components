@@ -1,4 +1,4 @@
-import CategoryFilter from './Components/CategoryFilter/index.js'
+import CategoryFilter from './Components/CategoryFilter/index.jsx'
 
 
 export {
