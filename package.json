@@ -68,7 +68,7 @@
     "bootstrap": "^3.3.7",
     "eslint": "^3.19.0",
     "istanbul": "^0.4.5",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.0",
     "jsdoc": "^3.5.5",
     "leaflet": "^1.4.0",
     "leaflet.markercluster": "^1.4.1",
