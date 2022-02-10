@@ -41,7 +41,7 @@
     "node-geocoder": "^3.23.0",
     "node-gyp": "^3.6.1",
     "node-json-db": "^0.7.3",
-    "node-sass": "^4.9.4",
+    "node-sass": "^7.0.0",
     "npm": "^5.2.0",
     "query-string": "^6.8.3",
     "randomcolor": "^0.5.4",
